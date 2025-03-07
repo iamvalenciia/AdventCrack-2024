@@ -4,8 +4,6 @@ This repository contains the solutions to the first two problems of Advent of Co
 
 The program allows the user to choose whether they want to run the solution for Problem 1 or Problem 2 directly from the console.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 This software was developed using the following tools and technologies:
