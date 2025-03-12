@@ -1,7 +1,7 @@
 import { expect, test } from "vitest";
-import { hello_world } from "./index";
+import { hello_world } from "/index";
 
-test("Print Hello World", () => {
+test("problem_day_one", () => {
   expect(hello_world()).toBe(console.log("Hello World"));
 });
 
