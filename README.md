@@ -1,8 +1,8 @@
 # Overview
 
-This repository contains the solutions to the first two problems of Advent of Code 2024. The goal of this project is to solve these problems using JavaScript and follow a Test-Driven Development (TDD) methodology to ensure quality and correctness in the solutions.
+This repository contains the solution to Problem 1 of Advent of Code 2024. The project is implemented in JavaScript and follows a Test-Driven Development (TDD) approach to ensure accuracy and reliability.
 
-The program allows the user to choose whether they want to run the solution for Problem 1 or Problem 2 directly from the console.
+When running the program, the user should press Enter to execute the solution for Problem 1 and see the result displayed in the console.
 
 # Development Environment
 
@@ -11,6 +11,12 @@ This software was developed using the following tools and technologies:
 - **JavaScript** - The primary programming language used to solve the problems.
 - **Vitest** - A testing framework used for unit testing and Test-Driven Development (TDD).
 - **Node.js** - The runtime environment where the code is executed.
+
+# Installation and Usage
+
+- npm install -D
+- npm run dev
+- Press Enter to execute the solution and see the result.
 
 # Useful Websites
 
