@@ -2,7 +2,7 @@ import { expect, test } from "vitest";
 import { createArrayOfNumbersFromFile } from "../problem_day_one/extractNumbersFromFile.js";
 import { sortArray } from "../problem_day_one/sortArray.js";
 import { calculateElementWiseDifference } from "../problem_day_one/calculateElementWiseDifference.js";
-import { calculateArraySum } from "../problem_day_one/calculateArraySum.js";
+import { calculateArraySumRecursive } from "../problem_day_one/calculateArraySumRecursive.js";
 import path from "path";
 
 // Path to the test input file used for validating the extraction functionality
@@ -124,6 +124,6 @@ test("Calculate the difference between each number of the array and return their
  * @expect The total sum of the numbers in the array: 6
  */
 test("Calculate the total distance", () => {
-  const result = calculateArraySum([1, 2, 3]);
+  const result = calculateArraySumRecursive([1, 2, 3]);
   expect(result).toBe(6);
 });

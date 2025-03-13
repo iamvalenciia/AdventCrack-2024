@@ -12,14 +12,12 @@ This software was developed using the following tools and technologies:
 - **Vitest** - A testing framework used for unit testing and Test-Driven Development (TDD).
 - **Node.js** - The runtime environment where the code is executed.
 
-# Installation and Usage
-
-- npm install -D
-- npm run dev
-- Press Enter to execute the solution and see the result.
-
 # Useful Websites
 
 - [Advent of Code 2024](https://adventofcode.com/)
 - [Vitest Documentation](https://vitest.dev/)
 - [Node.js Official Website](https://nodejs.org/)
+
+# Future Work
+
+- The second part of the puzzle remains to be completed
